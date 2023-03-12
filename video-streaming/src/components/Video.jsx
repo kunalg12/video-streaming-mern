@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import VideoJS from './VideoJS'
 import videojs from 'video.js';
