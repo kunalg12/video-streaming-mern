@@ -104,9 +104,9 @@ const Video = () => {
                   </g>
                 </svg>
                 {/* Likes Count */}
-                <span>
+                <span className="flex">
                   <span className="px-1">{count.likes}</span>
-                  <p>Likes{count}</p>
+                  <p>Like {count}</p>
                 </span>
               </button>
 
